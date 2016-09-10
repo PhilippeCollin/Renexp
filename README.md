@@ -19,7 +19,7 @@ renexp [--sim] "[1-9]([a-z]*)[1-9](\.[a-z]+)?" "\1\2"
 * third.exe
 * fourth.py
 
-\1 and \2 and equivalent to the traditionnal $1 and $2
+\1 and \2 are equivalent to the usual $1 and $2
 
 Remember to surround the regular expressions with double quotes.
 
